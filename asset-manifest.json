@@ -1,29 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a36bcc7d.chunk.css",
-    "main.js": "/static/js/main.d1d30e81.chunk.js",
-    "main.js.map": "/static/js/main.d1d30e81.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2931374e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2931374e.js.map",
-    "static/js/2.b053371d.chunk.js": "/static/js/2.b053371d.chunk.js",
-    "static/js/2.b053371d.chunk.js.map": "/static/js/2.b053371d.chunk.js.map",
+    "main.css": "/static/css/main.83ef1820.css",
+    "main.js": "/static/js/main.6fed7ae2.js",
+    "static/media/adready.png": "/static/media/adready.b751c9ed4f55a3bcc484.png",
+    "static/media/hungerbox.png": "/static/media/hungerbox.ba6dd6758f5862dbffcb.png",
+    "static/media/hekpinghand.png": "/static/media/hekpinghand.3f53d2233d455e7abe8f.png",
+    "static/media/onboarding.png": "/static/media/onboarding.32c338393af6d05b6766.png",
+    "static/media/flight.png": "/static/media/flight.2fe6623a0d45ddfa7d8f.png",
+    "static/media/screenShare.png": "/static/media/screenShare.829e35b2dad1ed0bb873.png",
+    "static/media/myImage.png": "/static/media/myImage.bd5e57ad60eb2dd0f654.png",
+    "static/media/Mayank Resume.pdf": "/static/media/Mayank Resume.61d16ae5cfaabf62e143.pdf",
+    "static/media/night.jpeg": "/static/media/night.a4671a88afe0b44014ea.jpeg",
+    "static/media/nightmobile.jpg": "/static/media/nightmobile.028fb14d733862ffc9c0.jpg",
+    "static/media/day.jpeg": "/static/media/day.dad52073d8e0766c914c.jpeg",
     "index.html": "/index.html",
-    "static/css/main.a36bcc7d.chunk.css.map": "/static/css/main.a36bcc7d.chunk.css.map",
-    "static/js/2.b053371d.chunk.js.LICENSE.txt": "/static/js/2.b053371d.chunk.js.LICENSE.txt",
-    "static/media/Mayank Resume.61d16ae5.pdf": "/static/media/Mayank Resume.61d16ae5.pdf",
-    "static/media/adready.b751c9ed.png": "/static/media/adready.b751c9ed.png",
-    "static/media/Home.css": "/static/media/nightmobile.028fb14d.jpg",
-    "static/media/flight.2fe6623a.png": "/static/media/flight.2fe6623a.png",
-    "static/media/hekpinghand.3f53d223.png": "/static/media/hekpinghand.3f53d223.png",
-    "static/media/hungerbox.ba6dd675.png": "/static/media/hungerbox.ba6dd675.png",
-    "static/media/myImage.bd5e57ad.png": "/static/media/myImage.bd5e57ad.png",
-    "static/media/onboarding.32c33839.png": "/static/media/onboarding.32c33839.png",
-    "static/media/screenShare.829e35b2.png": "/static/media/screenShare.829e35b2.png"
+    "main.83ef1820.css.map": "/static/css/main.83ef1820.css.map",
+    "main.6fed7ae2.js.map": "/static/js/main.6fed7ae2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2931374e.js",
-    "static/js/2.b053371d.chunk.js",
-    "static/css/main.a36bcc7d.chunk.css",
-    "static/js/main.d1d30e81.chunk.js"
+    "static/css/main.83ef1820.css",
+    "static/js/main.6fed7ae2.js"
   ]
 }
